@@ -5,8 +5,8 @@ This is a clone of Adidas website
 | Environment | Link |
 |-------------|------|
 | GitHub Pages | [GitHub Pages](https://jhanwi.github.io/ADIDAS-CLONE/) |
-| Vercel Preview | [Vercel Preview](https://adidas-mu-sooty.vercel.app/) |
-| Vercel Production | [Vercel Production](https://adidas-mu-sooty.vercel.app/)
+| Vercel Preview | [Vercel Preview](https://adidas-clone-pied.vercel.app/) |
+| Vercel Production | [Vercel Production](https://adidas-clone-pied.vercel.app/)
 
 ### Technology Stack
 #### Languages:
