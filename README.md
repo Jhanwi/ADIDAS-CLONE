@@ -1,6 +1,13 @@
 # ADIDAS-CLONE
 This is a clone of Adidas website
 
+### Deployment
+| Environment | Link |
+|-------------|------|
+| GitHub Pages | [GitHub Pages](https://jhanwi.github.io/ADIDAS-CLONE/) |
+| Vercel Preview | [Vercel Preview](https://adidas-mu-sooty.vercel.app/) |
+| Vercel Production | [Vercel Production](https://adidas-mu-sooty.vercel.app/)
+
 ### Technology Stack
 #### Languages:
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
